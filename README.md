@@ -1,4 +1,5 @@
 # Assignment-2
+
 Based on the data I found, Uptown and Downtown areas of Manhattan had the most noise complaints by far. My theory for this is simply that there are many commercial neighborhoods in those areas, and general habitant population density is also high. That would also explain noises from construction, as there would be a lot of development in areas where there are many people working, living, and spending time.
 
 Interestingly, ice cream truck and animal noise complaints were more common in the Midtown area of Manhattan. Meanwhile, party/loud music complaints were prominent nearly everywhere in Manhattan, as were the "construction" and "other" categories, albeit a little less common than the party/loud music complaints. These complaint descriptors aren't entirely exclusive to either residential or commercial areas, however, so connecting categories to my theory was difficult.
